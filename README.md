@@ -8,7 +8,7 @@ In this game we switch to a different world called shadow-world where the shadow
 
 In case of discrepancies in determining the position of object by a single shadow soul, we have to place another shadow soul such that it clearly describes the position of object in the normal world!
 
-The objective of the game is to collect
+The objective of the game is to collect the Obsidian
 
 Bugs and Issues:
 
