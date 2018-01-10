@@ -16,4 +16,4 @@ Bugs and Issues:
 
 2.      The navigation gets a little bit difficult sometimes due to the wide range of camera movements.
 
-Video file: 
+Video file: https://youtu.be/VC5sUHvOj34
