@@ -1,5 +1,4 @@
 # Code.fun.do: Shadow-Eclipse
-Our game for code.fun.do 2017-18
 this.team[3]= {Divyansh Verma, Lavish Chauhan, Saksham Dhull};
 
 Description:
