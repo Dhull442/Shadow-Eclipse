@@ -12,8 +12,8 @@ The objective of the game is to collect the Obsidian
 
 Bugs and Issues:
 
-1.      Sometimes the shadow souls aren’t able to access the whole of the shadow cover!
+* Sometimes the shadow souls aren’t able to access the whole of the shadow cover!
 
-2.      The navigation gets a little bit difficult sometimes due to the wide range of camera movements.
+* The navigation gets a little bit difficult sometimes due to the wide range of camera movements.
 
 Video file: https://youtu.be/VC5sUHvOj34
