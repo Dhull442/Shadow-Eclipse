@@ -1,7 +1,7 @@
 # Code.fun.do: Shadow-Eclipse
 this.team\[3\]= {[Divyansh Verma][1], [Lavish Chauhan][2], [Saksham Dhull][3]};
 
-> ### You're known by your company and now you're company is your shadow!
+#### "You're known by your company and now you're company is your shadow!"
 
 ### Description:
 
