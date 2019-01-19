@@ -1,7 +1,7 @@
 # Code.fun.do: Shadow-Eclipse
-this.team\[3\]= {[Divyansh Verma](), [Lavish Chauhan](), [Saksham Dhull]()};
+this.team\[3\]= {[Divyansh Verma][1], [Lavish Chauhan][2], [Saksham Dhull][3]};
 
-> You're known by your company and now you're company is your shadow!
+> ### You're known by your company and now you're company is your shadow!
 
 ### Description:
 
@@ -20,3 +20,6 @@ The objective of the game is to collect the Obsidian
 
 [Video file](https://youtu.be/VC5sUHvOj34)
 
+[1]: https://github.com/Divi09112
+[2]: https://github.com/lavishchauhan321
+[3]: https://github.com/Dhull442
